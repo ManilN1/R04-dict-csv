@@ -90,3 +90,5 @@ if __name__ == "__main__" :
     #       Résultat attendu dans le terminal:  "Total : 18868 $, moy : 3773.6 $, nombre de clients : 5"
 solde_total=obtenir_stats(donnees_json)
 print(f"Total: {solde_total[2]}, moyenne: {solde_total[1]}, nombre de clients: {solde_total[0]}")
+
+#Fini!
